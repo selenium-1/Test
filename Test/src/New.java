@@ -15,6 +15,7 @@
 
 	public class New {
 		static WebDriver driver;
+		//static WebDriver driver;
 		String CSV_file = "D:\\Skype\\UserRoles.csv";
 
 		@BeforeClass

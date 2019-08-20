@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33411" started-at="2019-07-31T09:51:01Z" finished-at="2019-07-31T09:51:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33411" started-at="2019-07-31T09:51:01Z" finished-at="2019-07-31T09:51:35Z">
+      <class name="ReadDataFromCSV">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:ReadDataFromCSV@2a2d45ba]" name="openBrowser" is-config="true" duration-ms="16956" started-at="2019-07-31T09:51:01Z" finished-at="2019-07-31T09:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="read_data()[pri:0, instance:ReadDataFromCSV@2a2d45ba]" name="read_data" duration-ms="15761" started-at="2019-07-31T09:51:18Z" finished-at="2019-07-31T09:51:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- read_data -->
+        <test-method status="PASS" signature="close()[pri:0, instance:ReadDataFromCSV@2a2d45ba]" name="close" is-config="true" duration-ms="658" started-at="2019-07-31T09:51:34Z" finished-at="2019-07-31T09:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ReadDataFromCSV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
